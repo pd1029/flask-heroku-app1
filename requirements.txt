@@ -1,0 +1,4 @@
+tensorflow
+numpy
+distutils
+opencv-python
